@@ -1,0 +1,6 @@
+jupyterlab
+jupyter-lsp
+python-language-server[all]
+
+numpy
+pandas
